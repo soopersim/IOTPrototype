@@ -18,6 +18,9 @@ Includes:
 
 ## 🖼️ Images
 
+[6NTCM009W Internet of Things (IoT) Report.pdf](https://github.com/user-attachments/files/20602050/6NTCM009W.Internet.of.Things.IoT.Report.pdf)
+
+
 ## 📌 Notes
 
 All projects written for Raspberry Pi Pico W using MicroPython.
