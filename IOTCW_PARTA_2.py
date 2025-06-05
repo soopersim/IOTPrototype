@@ -1,5 +1,4 @@
-# Student name: Simranjit Kaur Gill
-# Student ID: W19314851
+
 
 # Filename: IOTCW_PARTA_2.py
 import machine
@@ -9,8 +8,8 @@ import socket
 import time
 import bme280
 
-ssid = 'sim'
-password = 'lofiish-0'
+ssid = ''
+password = ''
 
 i2c = I2C(0, sda=Pin(0), scl=Pin(1), freq=400000)
 bme = bme280.BME280(i2c=i2c)
