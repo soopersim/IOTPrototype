@@ -1,5 +1,4 @@
-# Student name: Simranjit Kaur Gill
-# Student ID: W19314851
+
 
 # Filename: IOTCW_PARTA_1.py
 import machine
