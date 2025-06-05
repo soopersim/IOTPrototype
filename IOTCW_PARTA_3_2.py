@@ -1,5 +1,4 @@
-# Student name: Simranjit Kaur Gill
-# Student ID: W19314851
+
 
 # Filename: IOTCW_PARTA_3_2.py
 import machine
@@ -13,8 +12,8 @@ from bme280 import BME280
 
 wlan = network.WLAN(network.STA_IF)
 board_led=machine.Pin("LED", machine.Pin.OUT)
-ssid = 'sim'
-password = 'lofiish-0'
+ssid = ''
+password = ''
 
 SCRIPT_URL = "https://script.google.com/macros/s/AKfycbz01jgcLQbH8llyP_t72-1YUaiUr8IZdL3Q9h6beAYkImSjPhee7r1OryB4zOhTHAB6qQ/exec"
 TIME_URL = "https://timeapi.io/api/Time/current/zone?timeZone=Europe/London"
